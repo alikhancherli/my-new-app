@@ -11,7 +11,7 @@ function App() {
         </Col>
 
         <Col>
-        <Button block variant='success'>Btn 1</Button>
+        <Button block variant='success'>Click Me</Button>
         </Col>
 
         <Col>
